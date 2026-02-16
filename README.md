@@ -1,6 +1,6 @@
 Name: Naitik 
 Roll No.: Your Roll Number
-Course: Your Course Name
+Course: BCS
 Semester: Your Semester
 
 Ricky here
